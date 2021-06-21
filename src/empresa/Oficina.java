@@ -10,13 +10,14 @@ package empresa;
  * @author WilderPC
  */
 public class Oficina {
-    int mesas, asientos, macetas, computadores;
+    int mesas, asientos, macetas, computadores, ventanas;
 
-    public Oficina(int mesas, int asientos, int macetas, int computadores) {
+    public Oficina(int mesas, int asientos, int macetas, int computadores, int ventanas) {
         this.mesas = mesas;
         this.asientos = asientos;
         this.macetas = macetas;
         this.computadores = computadores;
+        this.ventanas = ventanas;
     }
-    
+     
 }
