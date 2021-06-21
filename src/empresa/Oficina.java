@@ -11,4 +11,12 @@ package empresa;
  */
 public class Oficina {
     int mesas, asientos, macetas, computadores;
+
+    public Oficina(int mesas, int asientos, int macetas, int computadores) {
+        this.mesas = mesas;
+        this.asientos = asientos;
+        this.macetas = macetas;
+        this.computadores = computadores;
+    }
+    
 }
