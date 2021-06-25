@@ -10,5 +10,11 @@ package empresa;
  * @author FerGuevara
  */
 public class Guevara_Fernando {
+
+    public Guevara_Fernando() {
+        
+        
+    }
+    
     
 }
