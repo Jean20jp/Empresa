@@ -18,5 +18,10 @@ public class Empleado {
         this.apellido = apellido;
         this.direccion = direccion;
     }
+
+    public Empleado() {
+    }
+    
+    
     
 }
