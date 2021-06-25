@@ -19,5 +19,4 @@ public class Oficina {
         this.computadores = computadores;
         this.ventanas = ventanas;
     }
-     
 }

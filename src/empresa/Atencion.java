@@ -10,6 +10,10 @@ public class Atencion {
     String fechaAtencion;
     Empleado empleadoAtencion;
 
+    public Atencion() {
+    }
+
+    
     public Atencion(int numAtencion, String fechaAtencion) {
         this.numAtencion = numAtencion;
         this.fechaAtencion = fechaAtencion;
